@@ -6,19 +6,19 @@ Rocket Planner is a WebExtension based daily activity planner used to manage tas
 
 ## User Stories
 
-As a `<User>`, I want `<Goal>` so that `<Some Reason>`
+As a `<User>`, I want `<Goal>` so that `<Reason>`
 
-**TASK**: Complete User Stories for the rest of the functionalities in the app
+**TASK**: *Complete User Stories for the rest of the functionalities in the app*
 
 ## Flow Diagram (Swimlane)
 
 Shows who does what in the process (Example:link)
 
-**TASK**: Complete Swimlane for adding a website as a task
+**TASK**: *Complete Swimlane for adding a website as a task*
 
 ## Business Requirements
 
-**TASK**: Complete Business Requirements for the WebExtension
+**TASK**: *Complete Business Requirements for the WebExtension*
 
 ## Technical Requirements
 
