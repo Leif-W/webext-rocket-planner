@@ -18,6 +18,13 @@ This add-on requires a browser enabled with JavaScript, CSS, and WebExtensions, 
 
 Here are some notes about the development process.
 
+# Suggestions
+
+Some suggested tools:
+
+- [Visual Studio Code](https://code.visualstudio.om/)
+- VSC extension [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) by Henning Dieterichs
+
 ## Requirements
 
 [Requirements](docs/Requirements.md) documentation.
