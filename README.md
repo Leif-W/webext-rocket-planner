@@ -18,7 +18,7 @@ This add-on requires a browser enabled with JavaScript, CSS, and WebExtensions, 
 
 Here are some notes about the development process.
 
-# Suggestions
+## Suggestions
 
 Some suggested tools:
 
