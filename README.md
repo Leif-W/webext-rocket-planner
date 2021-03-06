@@ -29,6 +29,10 @@ Some suggested tools:
 
 [Requirements](docs/Requirements.md) documentation.
 
+## TODO
+
+[TODO](docs/TODO.md) list of tasks to complete to implement the app.
+
 # Known Issues
 
 - The Swimlane Flow Diagram finds the most icons using [draw.io](https://app.diagrams.net/), not the desktop app or the VSC extension.
