@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "webext-rocket-planner",
+  "version": "0.0.1",
+  "description": "WebExtension based Rocket Planner is a daily activity planner & TODO list app to help you complete your daily action items.",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
