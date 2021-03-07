@@ -1,0 +1,31 @@
+{
+  "name": "webext-rocket-planner",
+  "version": "0.0.1",
+  "description": "WebExtension based Rocket Planner",
+  "main": "src/popup.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leif-W/webext-rocket-planner.git"
+  },
+  "keywords": [
+    "WebExtension",
+    "TODO",
+    "TODO List",
+    "Planner",
+    "Daily Planner",
+    "Daily Activity",
+    "Action Items"
+  ],
+  "author": "Leif Westerlind <Leif-W@users.noreply.github.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Leif-W/webext-rocket-planner/issues"
+  },
+  "homepage": "https://github.com/Leif-W/webext-rocket-planner#readme"
+}
